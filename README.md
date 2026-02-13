@@ -1,5 +1,10 @@
 # Welcome to my profile!
 
+I'm Thinh - Vietnamese. And I am currently a final-year student majoring in Cyber Security at USTH (University of Science and Technology of Hanoi).
+
+You can find me at:
+- TryHackMe: https://tryhackme.com/p/thethinhnguyen
+- HackTheBox: https://app.hackthebox.com/public/users/3161659
 <!--
 **ThinhNT272/ThinhNT272** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
