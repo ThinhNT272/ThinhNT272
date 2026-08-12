@@ -5,7 +5,6 @@ I'm Thinh - Vietnamese. And I am currently a final-year student majoring in Cybe
 You can find me at:
 - TryHackMe: https://tryhackme.com/p/thethinhnguyen
 - PicoCTF: https://play.picoctf.org/users/thinhnt
-- HackTheBox: https://app.hackthebox.com/public/users/3161659
 - CyberDefense: https://cyberdefenders.org/p/thethinhnguyen
 <!--
 **ThinhNT272/ThinhNT272** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
