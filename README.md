@@ -1,11 +1,11 @@
 # Welcome to my profile!
 
-I'm Thinh - Vietnamese. And I am currently a final-year student majoring in Cyber Security at USTH (University of Science and Technology of Hanoi).
+I'm Thinh from Vietnam. a fresh graduate majoring in Cyber Security at USTH (University of Science and Technology of Hanoi). Currently, I am expanding my knowledge and skills in Cyber Security and Networking.
 
 You can find me at:
 - TryHackMe: https://tryhackme.com/p/thethinhnguyen
-- PicoCTF: https://play.picoctf.org/users/thinhnt
-- CyberDefense: https://cyberdefenders.org/p/thethinhnguyen
+- Cylab Security Academy: https://learn.cylabacademy.org/users/thinhnt
+- CyberDefenders: https://cyberdefenders.org/p/thethinhnguyen
 <!--
 **ThinhNT272/ThinhNT272** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
